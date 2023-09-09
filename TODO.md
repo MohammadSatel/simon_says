@@ -3,7 +3,7 @@ TODO LIST:
 readme - V
 virtual env - V
 install imports - V
-requerments.txt -
+requerments.txt - V
 logging - V
 display buttons - V
 sleep delay - V
